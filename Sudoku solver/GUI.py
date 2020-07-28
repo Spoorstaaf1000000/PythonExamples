@@ -1,6 +1,6 @@
 # GUI.py
 # RUN THIS FILE
-import pygame
+import gamepy
 from solver import solve, valid
 import time
 pygame.font.init()
